@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "SIK_Circuit_3A-Servo\\SIK_Circuit_3A-Servo.ino"
+}
